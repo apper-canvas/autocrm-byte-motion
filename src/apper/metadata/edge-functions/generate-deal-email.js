@@ -121,6 +121,7 @@ apper.serve(async (req) => {
 
 The email should:
 1. Congratulate the contact on closing the deal
+1. Congratulate the contact on closing the deal
 2. Reference the specific deal name and value
 3. Express appreciation for their business
 4. Look forward to future collaboration
